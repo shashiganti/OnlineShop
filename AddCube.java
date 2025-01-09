@@ -15,7 +15,7 @@ for(int i=1;i<=n;i++){
 
 System.out.println(i*i*i);
 
-sum += i*i*i;
+sum += i*i*i*i;
 
 }
 System.out.println("The total Sum of Cube Numbers:  " +sum);
